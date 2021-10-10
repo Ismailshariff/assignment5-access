@@ -1,0 +1,22 @@
+.h1{
+    background-color: chartreuse;
+    color: crimson;
+
+}
+.h1:hover{
+    color:white;
+    background-color: blue;
+}
+
+.article{
+    color:aqua;
+    background-color: brown;
+}
+p{
+color: brown;
+background-color: coral;
+}
+p:hover{
+color: rgb(24, 23, 23);
+background-color: darkgreen;
+}
